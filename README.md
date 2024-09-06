@@ -6,12 +6,12 @@
 ## 👩‍👦‍👦 **스터디 멤버**
 <table>
  <tr>
-    <td align="center"><a href="https://github.com/dbscks97"><img src="https://avatars.githubusercontent.com/dbscks97" width="150px;" alt=""></td>
+    <td align="center"><a href="https://github.com/dbscks97"><img src="https://avatars.githubusercontent.com/dbscks97" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/wnstn819"><img src="https://avatars.githubusercontent.com/wnstn819" width="150px;" alt=""></td>
     <td align="center"><a href="https://github.com/cocounni"><img src="https://avatars.githubusercontent.com/cocounni" width="150px;" alt=""></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Seongho0503"><b>박윤찬</b></td>
+    <td align="center"><a href="https://github.com/dbscks97"><b>박윤찬</b></td>
     <td align="center"><a href="https://github.com/wnstn819"><b>왕준수</b></td>
     <td align="center"><a href="https://github.com/cocounni"><b>고혜정</b></td>
   </tr>
