@@ -1,0 +1,55 @@
+## 📌 제출 코드
+프로그래머스 - 불량사용자
+
+```javascript
+// 정규식 사용해서 *처리한 후 user_id와 banned_id 매칭되는지 확인하는 함수
+function isMatch(user, banned) {
+  const regex = new RegExp(`^${banned.replace(/\*/g, '.')}$`);
+  return regex.test(user);
+}
+
+function solution(user_id, banned_id) {
+  let candidates = [];
+
+  // 각 banned_id에 매칭되는 user_id를 찾기
+  banned_id.forEach(banned => {
+    let matchList = [];
+    user_id.forEach(user => {
+      if (user.length === banned.length && isMatch(user, banned)) {
+        matchList.push(user);
+      }
+    });
+    candidates.push(matchList);
+  });
+
+  // set 사용해서 중복 제거
+  let results = new Set();
+
+  // 가능한 모든 조합을 백트래킹으로 탐색
+  function backtrack(path, depth) {
+    if (depth === banned_id.length) {
+      let sortedPath = path.slice().sort().join(',');
+      results.add(sortedPath); // 중복된 조합을 제거하기 위해 정렬 후 문자열로 저장
+      return;
+    }
+
+    candidates[depth].forEach(candidate => {
+      if (!path.includes(candidate)) {
+        path.push(candidate);
+        backtrack(path, depth + 1);
+        path.pop();
+      }
+    });
+  }
+
+  backtrack([], 0);
+
+  return results.size;
+}
+```
+
+## ✅ 풀이
+백트래킹
+
+## ✨ 추가 학습 내용
+정규식
