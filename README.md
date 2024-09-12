@@ -18,7 +18,7 @@
   <tr> 
     <td align="center">Java</td>
     <td align="center">Java</td>
-    <td align="center">JavaScrpit<y</td>
+    <td align="center">JavaScript</td>
   </tr> 
 </table>
 
@@ -32,9 +32,9 @@
 
 
 
-| 01 주차 | 날짜                           | 기출 유형           | 문제명                                                                                                                     | 난이도                                                         |
+| 02 주차 | 날짜                           | 기출 유형           | 문제명                                                                                                                     | 난이도                                                         |
 | ------- | ------------------------------ | ------------------- | -------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------: |
-| Week 01 | 24.09.06<br /> 24.09.12<br /> | 우선순위 큐, 그리디, 문자열 | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) (Level 3)<br/> [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) (Level 2)<br/> [불량사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) (Level 3) | ★★★<br/> ★★<br/> ★★★ |
+| Week 02 | 24.09.12<br /> 24.09.18<br /> | 해쉬, DP, BFS/DFS | [베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) (Level 3)<br/> [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) (Level 2)<br/> [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) (Level 2) | ★★★<br/> ★★<br/> ★★ |
 
 
 
@@ -100,6 +100,8 @@ git commit -m "[BOJ] 1874 / 실버3 / 40분 / 박윤찬"
 > 3. 난이도는 백준 - 실버2 이상, 프로그래머스 - Lv2 이상의 문제를 풀되, 점차 높여간다.
 > 4. 이와 같은 방식으로 일주일에 5 번 진행해 총 5문제를 풀이할 수 있다. (평일 기준)
 
-| 01 주차 | 날짜                           | 기출 유형           | 문제명                                                                                                                     | 난이도                                                         |
-| ------- | ------------------------------ | ------------------- | -------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------: |
-| Week 01 | 24.09.06<br /> 24.09.12<br /> | 우선순위 큐, 그리디, 문자열 | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) (Level 3)<br/> [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) (Level 2)<br/> [불량사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) (Level 3) | ★★★<br/> ★★<br/> ★★★ |
+| 주차   | 날짜                         | 기출 유형                | 문제명                                                                                                                                       | 난이도                      |
+|--------|------------------------------|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+| Week 01 | 24.09.06 ~ 24.09.12         | 우선순위 큐, 그리디, 문자열 | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) (Level 3)<br/> [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) (Level 2)<br/> [불량사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) (Level 3) | ★★★<br/> ★★<br/> ★★★ |
+| Week 02 | 24.09.12 ~ 24.09.18         | 해쉬, DP, BFS/DFS        | [베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) (Level 3)<br/> [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) (Level 2)<br/> [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) (Level 2) | ★★★<br/> ★★<br/> ★★   |
+
