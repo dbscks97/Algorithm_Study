@@ -32,9 +32,9 @@
 
 
 
-| 03 주차 | 날짜                           | 기출 유형           | 문제명                                                                                                                     | 난이도                                                         |
+| 04 주차 | 날짜                           | 기출 유형           | 문제명                                                                                                                     | 난이도                                                         |
 | ------- | ------------------------------ | ------------------- | -------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------: |
-| Week 03 | 24.09.18<br /> 24.09.25<br /> | 이진탐색, 투 포인터, 구현 | [적록 색약](https://www.acmicpc.net/problem/10026) (Gold 5)<br/> [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) (Level 3)<br/> [택배 상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) (Level 2) | ☆☆☆☆☆<br/> ★★★<br/> ★★ |
+| Week 04 | 24.09.25<br /> 24.10.02<br /> | DP, 백트래킹, 문자열 | [전깃줄](https://www.acmicpc.net/problem/2565) (Gold 5)<br/> [가르침](https://www.acmicpc.net/problem/1062) (Gold 4)<br/> [전화번호목록](https://www.acmicpc.net/problem/5052) (Gold 4) | ☆☆☆☆☆<br/> ☆☆☆☆<br/> ☆☆☆☆ |
 
 
 
@@ -105,4 +105,6 @@ git commit -m "[BOJ] 1874 / 실버3 / 40분 / 박윤찬"
 | Week 01 | 24.09.06 ~ 24.09.12         | 우선순위 큐, 그리디, 문자열 | [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) (Level 3)<br/> [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860) (Level 2)<br/> [불량사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) (Level 3) | ★★★<br/> ★★<br/> ★★★ |
 | Week 02 | 24.09.12 ~ 24.09.18         | 해쉬, DP, BFS/DFS        | [베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) (Level 3)<br/> [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) (Level 2)<br/> [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) (Level 2) | ★★★<br/> ★★<br/> ★★   |
 | Week 03 | 24.09.18 ~ 24.09.25         | 이진탐색, 투 포인터, 구현 | [적록 색약](https://www.acmicpc.net/problem/10026) (Gold 5)<br/> [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) (Level 3)<br/> [택배 상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) (Level 2) | ☆☆☆☆☆<br/> ★★★<br/> ★★ |
+| Week 04 | 24.09.25 ~ 24.10.02         | DP, 백트래킹, 문자열      | [전깃줄](https://www.acmicpc.net/problem/2565) (Gold 5)<br/> [가르침](https://www.acmicpc.net/problem/1062) (Gold 4)<br/> [전화번호 목록](https://www.acmicpc.net/problem/5052) (Gold 4) | ☆☆☆☆☆<br/> ☆☆☆☆<br/> ☆☆☆☆ |
+
 
