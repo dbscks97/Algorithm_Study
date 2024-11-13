@@ -34,8 +34,7 @@
 
 | 05 주차 | 날짜                           | 기출 유형           | 문제명                                                                                                                     | 난이도                                                         |
 | ------- | ------------------------------ | ------------------- | -------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------: |
-| Week 05 | 24.10.02<br /> 24.10.10<br /> | DP, 우선순위큐, 그리디 | [최장 최장 증가 부분 수열](https://www.acmicpc.net/problem/25343) (Gold 5)<br/> [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) (Lv 2)<br/> [저울](https://www.acmicpc.net/problem/2437) (Gold 2) | ☆☆☆☆☆<br/> ★★<br/> ☆☆ |
-
+| Week 09 | 24.11.07<br /> 24.11.13<br /> | 구현, 백트래킹, 문자열 | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) (Gold 5)<br/> [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) (Lv 2)<br/> [회문](https://www.acmicpc.net/problem/17609) (Gold 5) | ☆☆☆☆☆<br/> ★★★<br/> ☆☆☆☆☆ |
 
 
 <br />
@@ -106,7 +105,8 @@ git commit -m "[BOJ] 1874 / 실버3 / 40분 / 박윤찬"
 | Week 02 | 24.09.12 ~ 24.09.18         | 해쉬, DP, BFS/DFS        | [베스트 앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) (Level 3)<br/> [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) (Level 2)<br/> [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164) (Level 2) | ★★★<br/> ★★<br/> ★★   |
 | Week 03 | 24.09.18 ~ 24.09.25         | 이진탐색, 투 포인터, 구현 | [적록 색약](https://www.acmicpc.net/problem/10026) (Gold 5)<br/> [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) (Level 3)<br/> [택배 상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704) (Level 2) | ☆☆☆☆☆<br/> ★★★<br/> ★★ |
 | Week 04 | 24.09.25 ~ 24.10.02         | DP, 백트래킹, 문자열      | [전깃줄](https://www.acmicpc.net/problem/2565) (Gold 5)<br/> [가르침](https://www.acmicpc.net/problem/1062) (Gold 4)<br/> [전화번호 목록](https://www.acmicpc.net/problem/5052) (Gold 4) | ☆☆☆☆☆<br/> ☆☆☆☆<br/> ☆☆☆☆ |
-| Week 05 | 24.10.02 ~ 24.10.10         | DP, 우선순위큐, 그리디 | [최장 최장 증가 부분 수열](https://www.acmicpc.net/problem/25343) (Gold 5)<br/> [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) (Lv 2)<br/> [저울](https://www.acmicpc.net/problem/2437) (Gold 2) | ☆☆☆☆☆<br/> ★★<br/> ☆☆ |
-
-
-
+| Week 05 | 24.10.02 ~ 24.10.10         | DP, 우선순위큐, 그리디    | [최장 최장 증가 부분 수열](https://www.acmicpc.net/problem/25343) (Gold 5)<br/> [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) (Lv 2)<br/> [저울](https://www.acmicpc.net/problem/2437) (Gold 2) | ☆☆☆☆☆<br/> ★★<br/> ☆☆ |
+| Week 06 | 24.10.10 ~ 24.10.16         | 문자열, BFS/DFS, 그리디, SQL | [오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888) (Lv 2)<br/> [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365) (Lv 3)<br/> [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) (Lv 2)<br/> [특정 조건을 만족하는 물고기별 수와 최대 길이 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59042) (SQL Lv 3)<br/> [특정세대의 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/59043) (SQL Lv 4) | ★★<br/> ★★★<br/> ★★<br/> ★★★<br/> ★★★★ |
+| Week 07 | 24.10.16 ~ 24.10.23         | DP, 완전탐색, 구현        | [스티커 모으기2](https://school.programmers.co.kr/learn/courses/30/lessons/12971) (Lv 3)<br/> [외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062) (Lv 3)<br/> [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485) (Lv 2) | ★★★<br/> ★★★<br/> ★★ |
+| Week 08 | 24.10.31 ~ 24.11.06         | DP, 그리디, 우선순위큐   | [카운트다운](https://school.programmers.co.kr/learn/courses/30/lessons/181187) (Lv 3)<br/> [센서](https://www.acmicpc.net/problem/2212) (Gold 5)<br/> [이중우선순위 큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) (Lv 3) | ★★★<br/> ☆☆☆☆☆<br/> ★★★ |
+| Week 09 | 24.11.07 ~ 24.11.13         | 구현, 백트래킹, 문자열    | [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055) (Gold 5)<br/> [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163) (Lv 3)<br/> [회문](https://www.acmicpc.net/problem/17609) (Gold 5) | ☆☆☆☆☆<br/> ★★★<br/> ☆☆☆☆☆ |
